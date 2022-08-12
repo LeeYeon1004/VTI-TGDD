@@ -16,6 +16,8 @@ html {
 .container-nav {
   display: flex;
   justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 .img-header {
   width: 100%;
@@ -95,7 +97,7 @@ html {
 }
 .cart i {
   font-size: 28px;
-  margin-left: 8px;
+  margin-right: 8px;
 }
 .game {
   display: flex;
@@ -120,3 +122,4 @@ html {
   flex: 1;
 }
 /* product */
+/* primary-color: #288ad6 */
